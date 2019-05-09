@@ -17,5 +17,3 @@
   - 启动mysql8服务、关闭mysql8服务在设计某些测试用例时有用，具体参考test/dao/impl下的ChapterDaoImplTest.java
 ### 辅助工具
   - Navicat Premium：数据库链接工具，可以执行sql文件导入数据库
-  - start_mysql8.bat：执行命令 net start mysql8 的脚本（方便启动mysql8服务）
-  - stop_mysql8.bat：执行命令 net stop mysql8 的脚本（方便关闭mysql8服务）
